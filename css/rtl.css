@@ -1,0 +1,58 @@
+
+
+
+body {
+    direction: rtl;
+}
+
+
+/* start glob */
+.lang {
+    right: 10px;
+}
+
+
+/* start header */
+.header .nav .navservices li {
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+.header .nav .navservices li::before {
+    right: 0;
+}
+
+
+/* start services */
+.services .content .cont .left {
+    transform: translateX(30px) translateY(30px);
+    -webkit-transform: translateX(30px) translateY(30px);
+    -moz-transform: translateX(30px) translateY(30px);
+    -ms-transform: translateX(30px) translateY(30px);
+    -o-transform: translateX(30px) translateY(30px);
+}
+
+.services .content .cont.rtl .left {
+    transform: translateX(-30px) translateY(30px);
+    -webkit-transform: translateX(-30px) translateY(30px);
+    -moz-transform: translateX(-30px) translateY(30px);
+    -ms-transform: translateX(-30px) translateY(30px);
+    -o-transform: translateX(-30px) translateY(30px);
+}
+
+
+
+
+/* start contact */
+.contact .content .box {
+    direction: ltr;
+}
+
+
+
+
+
+
+
+
+

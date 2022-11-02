@@ -1,0 +1,53 @@
+
+
+color landing
+#5065a0
+
+
+.siteBody {
+    --theme-color-primary: rgb(80, 101, 160);
+    --theme-color-secondary: rgb(255, 127, 127);
+    --theme-color-gradient: rgb(39, 57, 79);
+}
+
+
+
+a:hover
+.style_btnread__tpVPF:hover {
+    background-color: var(--theme-color-primary);
+    color: rgb(255, 255, 255);
+    opacity: 0.9;
+    text-decoration: none;
+    box-shadow: rgb(0 0 0 / 10%) 0px 2px 14px 2px;
+    transform: translateY(-2px);
+    transition: all 0.5s ease 0s;
+}
+
+
+.style_btnread__tpVPF {
+    color: #5065a0;
+    text-align: center;
+    border: 1px solid #5065a0;
+    padding: 10px 36px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    margin-top: 6px;
+    transition: all 0.5s ease 0s;
+    box-shadow: #11161a29 0px 0px 8px 0px, #11161a29 0px 4px 8px 0px, #11161a29 0px 8px 16px 0px;
+}
+
+
+.styles_header__HcmQt {
+    background: linear-gradient(to right, #5065a0, #27394f);
+}
+
+
+
+
+p
+color: rgba(222, 222, 222, 0.8);
+
+
+
+
+

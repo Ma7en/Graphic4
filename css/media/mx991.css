@@ -1,0 +1,41 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+/* start header */
+
+
+
+
+
+
+/* start landing */
+.landing .container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px 0px;
+    justify-content: space-evenly;
+}
+
+.landing .right {
+    align-items: center;
+    text-align: center;
+}
+
+
+/* start services */
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
